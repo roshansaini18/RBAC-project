@@ -5,8 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
  Install dependencies:
 ### `npm install`
+Ensure Webpack and Webpack Dev Server Are Installed
+Run the following command to install webpack and webpack-dev-server locally:
+### `npm install webpack webpack-dev-server --save-dev`
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
